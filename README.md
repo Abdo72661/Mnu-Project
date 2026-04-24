@@ -1,14 +1,13 @@
 # Lab Asset Management System
 
-## وصف المشروع
-نظام لإدارة أصول المعمل، بيسمح للمستخدم بإضافة الأجهزة وتخزينها في ملف CSV.
+A simple Python system to manage and store laboratory assets in a CSV file.
 
-## كيفية التشغيل
-1.1. تأكد من وجود ملف `main.py` و `data.csv` في نفس المجلد.
-2. شغل البرنامج عن طريق الأمر:
+## How to Run
+1. Make sure `main.py` and `data.csv` are in the same folder.
+2. Run the project:
    `python main.py`
 
-### 👥 أعضاء الفريق (Team Members):
+(Team Members):
 * 👨‍💻 **Mahmoud Mohamed Mahmoud Mouawad**
 * 👨‍💻 **Ali AbdElnaser Ali**
 * 👨‍💻 **Ali Ashraf Ali**
