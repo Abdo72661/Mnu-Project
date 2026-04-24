@@ -8,9 +8,9 @@
 2. شغل البرنامج عن طريق الأمر:
    `python main.py`
 
-## أعضاء الفريق
-- Mahmoud Mohamed Mahmoud Mouawad
-- Ali AbdElnaser Ali
-- Ali Ashraf Ali 
-- Mahmoud Mohamed Ahmed
-- Abdelrahman Elsayed Fawzy
+### 👥 أعضاء الفريق (Team Members):
+* 👨‍💻 **Mahmoud Mohamed Mahmoud Mouawad**
+* 👨‍💻 **Ali AbdElnaser Ali**
+* 👨‍💻 **Ali Ashraf Ali**
+* 👨‍💻 **Mahmoud Mohamed Ahmed**
+* 👨‍💻 **Abdelrahman Elsayed Fawzy**
